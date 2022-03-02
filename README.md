@@ -1,6 +1,7 @@
 # Polynomial Time Parsing Algorithm for CCG
 
 A Python implemantation of a polynomial-runtime algorithm for parsing CCG grammars, developed by Kulmann and Sata (2014).
+This project is my submission for Parsing: Computation and Cognition Seminar in the computational linguistics program in Tel Aviv University. 
 
 ## Description
 
